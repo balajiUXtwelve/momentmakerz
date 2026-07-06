@@ -1,0 +1,6 @@
+{
+  "name": "MOMENT MAKERZ",
+  "description": "Premium, editorial portfolio website for MOMENT MAKERZ wedding photography, featuring cinematic visual stories and interactive galleries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
